@@ -1,0 +1,15 @@
+# Data files
+*.csv
+
+# PPT files
+*.pptx
+
+# Video files
+*.mp4
+
+
+
+# Security
+
+# Environment files
+*.env
